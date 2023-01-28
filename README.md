@@ -154,5 +154,6 @@ Execute the program
 	</table>
 </body>
 ```
-# OUPUT
+## OUTPUT
+
 ![model](image.png)
