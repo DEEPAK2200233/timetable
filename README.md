@@ -154,4 +154,4 @@ Execute the program
 	</table>
 </body>
 # OUPUT
-![model](timetable.png)
+![model](image.png)
